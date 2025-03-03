@@ -1,4 +1,4 @@
-Big O Complexity in Context
+**Big O Complexity in Context**
 
 The brute-force string matching algorithm exhibits a worst-case time complexity of O(nm), where n represents the length of the text and m represents the length of the pattern. The worst-case scenario occurs when every possible position in the text must be examined before determining that no match exists, leading to decreased efficiency as the input size increases.
 
